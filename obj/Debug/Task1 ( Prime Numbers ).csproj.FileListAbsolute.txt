@@ -1,0 +1,8 @@
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\bin\Debug\Task1 ( Prime Numbers ).exe.config
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\bin\Debug\Task1 ( Prime Numbers ).exe
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\bin\Debug\Task1 ( Prime Numbers ).pdb
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\obj\Debug\Task1 ( Prime Numbers ).csproj.AssemblyReference.cache
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\obj\Debug\Task1 ( Prime Numbers ).csproj.SuggestedBindingRedirects.cache
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\obj\Debug\Task1 ( Prime Numbers ).csproj.CoreCompileInputs.cache
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\obj\Debug\Task1 ( Prime Numbers ).exe
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task1 ( Prime Numbers )\Task1 ( Prime Numbers )\obj\Debug\Task1 ( Prime Numbers ).pdb
